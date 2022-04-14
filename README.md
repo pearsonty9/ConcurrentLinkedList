@@ -22,7 +22,7 @@ Problem 1:
   removeFirst function where instead of searching for a number we would remove 
   just the first item. This allows us to not have to traverse the entire list 
   when removing an item. Each servant is represented by a thread and will then either 
-  add an item, remove an item, or check if an item is in the list. In the problem is 
+  add an item, remove an item, or check if an item is in the list. In the problem it 
   says alternate the adding and removing but not when to check so I just added it as 
   a third part of the loop. 
  
